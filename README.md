@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Don't hesitate to check my projects :
+## Don't hesitate to check my IT projects :
 
 [Parkinson Disease Detector](https://github.com/Milkad0/ParkinsonIA)
 
@@ -8,6 +8,11 @@
 
 [Agenda](https://github.com/Milkad0/Agenda-Java)
 
+## Or my security audits :
+
+[Metasploitable 2](https://github.com/Milkad0/Metasploitable-2)
+
+[DC-4 VulnHub](https://github.com/Milkad0/DC-4_VulnHub)
 
 ## Visit my website if you want to know more about me :
 
